@@ -13,10 +13,10 @@
 
 ### Cadastro de Personagens
 
-- [ ] Deve poder cadastrar um personagem com as características conforme tabela abaixo:
-- [ ] Deve retornar o id do personagem ao realizar o cadastro
-- [ ] Não deve cadastrar personagem com nome duplicado
-- [ ] Com exceção da idade, todos os campos são obrigatórios
+- [X] Deve poder cadastrar um personagem com as características conforme tabela abaixo:
+- [X] Deve retornar o id do personagem ao realizar o cadastro
+- [X] Não deve cadastrar personagem com nome duplicado
+- [X] Com exceção da idade, todos os campos são obrigatórios
 
 | campos | descrição                             | tipo     | obrigatório |
 | ------ | :------------------------------------ | -------- | ----------- |
@@ -28,15 +28,15 @@
 
 ### Busca de Personagens
 
-- [ ] Deve retornar uma lista de personagens cadastrados
-- [ ] Deve poder buscar por personagem por nome
-- [ ] Deve poder buscar personagem pelo id
-- [ ] Deve retornar 404 ao buscar por id não cadastrado
+- [X] Deve retornar uma lista de personagens cadastrados
+- [X] Deve poder buscar personagem por nome
+- [X] Deve poder buscar personagem pelo id
+- [X] Deve retornar 404 ao buscar por id não cadastrado
 
 ### Remover Personagem
 
-- [ ] Deve poder remover por id, um personagem cadastrado
-- [ ] Deve retornar não encontrado ao remover por id não cadastrado
+- [X] Deve poder remover por id, um personagem cadastrado
+- [X] Deve retornar não encontrado ao remover por id não cadastrado
 
 ## 🚀 Tecnologias
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
+Feito com 💜 &nbsp;por Jéssica Espíndola da Silva 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/j%C3%A9ssica-esp%C3%ADndola-da-silva-81920076/)
